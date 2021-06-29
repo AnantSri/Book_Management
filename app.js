@@ -1,5 +1,5 @@
 var app = angular.module('myApp', []);
-var app = angular.module('shoppingApp',['ngRoute'])
+var app = angular.module('BookManagementApp',['ngRoute'])
 
 app.config(function($routeProvider){
     $routeProvider
